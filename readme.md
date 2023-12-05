@@ -1,7 +1,5 @@
 # STOCK MANAGEMENT BACKEND
 
-The Stock Management System, a web application for inventory and sales, includes a user-friendly dashboard, dynamic charts, and brand/firm management. It employs React, Material-UI, Tremor Chart, Formik, Yup, and Axios for functionality. The Sales and Performance components handle sales data visualization, utilizing an API for data retrieval.
-
 The backend of this project was created using Express.js, Node.js, MongoDB, Mongoose, JWT, and Token technologies.
 
 ### Folder/File Structure:
